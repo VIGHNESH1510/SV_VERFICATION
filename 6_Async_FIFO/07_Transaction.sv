@@ -12,6 +12,7 @@ class Transaction #(parameter d=4);
     2'b10 := 4,
     2'b11 := 1
   };
+  }
   
   
 endclass
